@@ -80,85 +80,89 @@
 
 # 💻 Tech Stack
 
-## Languages
+### 🧑‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,sql" />
-</p>
-
-## AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-<p>
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy)
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## LLM & AI Tools
+### 🤖 AI / Machine Learning
 
-<p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+
+---
+
+### 🧠 LLMs & AI Tools
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
-
-</p>
-
----
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
-</p>
-
-<p>
-
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-
-</p>
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
 
 ---
 
-## Frontend
+### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
----
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,supabase" />
-</p>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## DevOps & Cloud
+### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,gcp" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge)
 
 ---
 
-## Tools
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,bash" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### 🛠️ Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -178,11 +182,9 @@
 
 | Project | Description |
 |----------|-------------|
-| 🧠 MindMate | Offline Emotion-Aware Voice Assistant |
-| 📊 RL Portfolio Optimizer | Reinforcement Learning for Finance |
-| 🎤 Speech Emotion Recognition | Wav2Vec2 + BERT + Multimodal Fusion |
-| 📝 SmartQuiz Architect | AI Quiz Generator |
-| 🚦 Traffic Demand Prediction | CatBoost + Optuna |
+| 🎤 EmotionSense | Multimodal Emotion Recognition (Speech + Text) |
+| 📂 RepoSage | RAG-based AI Assistant for Understanding GitHub Repositories |
+| 📊 RL Portfolio Optimizer | Deep Reinforcement Learning for Financial Portfolio Optimization |
 
 ---
 
