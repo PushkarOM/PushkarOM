@@ -208,18 +208,6 @@
 
 ---
 
-# 🏅 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=PushkarOM&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
-
-# 📌 Top Contributed Repository
-
-![](https://github-contributor-stats.vercel.app/api?username=PushkarOM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
